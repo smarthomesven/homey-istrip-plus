@@ -1,0 +1,1 @@
+Control your iStrip+ ledstrip from Homey. Note that the LED strip is stateless, which means that any change made from the iStrip+ mobile app will not get reflected in Homey.
